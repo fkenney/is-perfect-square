@@ -25,6 +25,7 @@ public final class Square {
   public static boolean isPerfectSquare(long input) throws IllegalArgumentException {
        if ( input < 0 ){
          throw new IllegalArgumentException();
+
        }
 
     return true;
